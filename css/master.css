@@ -179,6 +179,6 @@ div#slider figure img {
 div#slider figure {
   position: relative;
   width: 500%;
-  animation: 15s slidy infinite;
+  animation: 10s slidy infinite;
   display: flex;
 }
