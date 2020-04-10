@@ -180,4 +180,5 @@ div#slider figure {
   position: relative;
   width: 500%;
   animation: 15s slidy infinite;
+  display: flex;
 }
